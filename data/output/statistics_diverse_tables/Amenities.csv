@@ -1,0 +1,16 @@
+Category,Amenity,Count
+Transportation,Tram Stop,180
+Transportation,Metro Station,39
+Commerce,Supermarket,264
+Commerce,Market,20
+Educaton,Library,26
+Education,Primary School,22
+Recreation,Park,51
+Entertainment,Playground,70
+Recreation,Boules Court,36
+Recreation,Swimming Pool,9
+Commerce,Ice Cream Shop,44
+Commerce,Bicycle Shop,166
+Entertainment,Cinema,20
+Healthcare,Physician Ordination,52
+Institution,City Office,7
