@@ -1,4 +1,4 @@
-# 🏙️ Fine-Grained 15-Minute City Accessibility – Amsterdam
+## Fine-Grained 15-Minute City Accessibility – Amsterdam
 
 
 This repository contains the code and processed outputs supporting a fine-grained evaluation of the 15-Minute City in Amsterdam. The study moves beyond the “average resident” perspective and quantifies how accessibility varies across space and across socio-demographic groups.
@@ -10,7 +10,7 @@ Using high-resolution CBS population grids (100×100m and 500×500m), combined w
 
 
 ---
-## 📦 Data
+### 📦 Data
 
 Raw datasets are hosted externally due to file size constraints.
 
@@ -35,7 +35,7 @@ Raw datasets are hosted externally due to file size constraints.
   - Administrative boundaries  
   - Additional spatial reference layers  
 
-## 🧠 Scripts
+### 🧠 Scripts
 
 - `extract_amenities_osm_points_polygons.py`  
   Extracts amenities from OpenStreetMap and exports spatial layers.
@@ -43,28 +43,29 @@ Raw datasets are hosted externally due to file size constraints.
 - `calculate_isochrones_ors.py`  
   Computes 15-minute travel-time isochrones using OpenRouteService (ORS) and calculates grid-based accessibility indicators and composite index values.
 
-## ▶️ Reproducibility
+### ▶️ Reproducibility
 
 Install dependencies found in requirements.txt
 
 Set your OpenRouteService API key as an environment variable.
 
-## 📊 Outputs
+### 📊 Outputs
 
 The `outputs/` folder contains processed accessibility results and maps.  
 Large intermediate files are not tracked.
 
-## 🗺️ Spatial reference
+### 🗺️ Spatial reference
 
 - Study area: Amsterdam, The Netherlands  
 - CRS: EPSG:28992 (Amersfoort / RD New)  
 - Analysis year: (insert year)
 
-## 📜 License
+### 📜 License
 
 - OpenStreetMap data © OpenStreetMap contributors 
 - CBS data subject to Statistics Netherlands terms  
 - Code released under MIT license 
+
 
 
 
