@@ -12,7 +12,7 @@ Using high-resolution CBS population grids (100×100m and 500×500m), combined w
 ---
 ### 📦 Data
 
-Raw datasets are hosted externally due to file size constraints.
+Raw geo-datasets are hosted externally due to file size constraints.
 
 **Zenodo DOI:** https://zenodo.org/records/18854137
 
@@ -65,6 +65,7 @@ Large intermediate files are not tracked.
 - OpenStreetMap data © OpenStreetMap contributors 
 - CBS data subject to Statistics Netherlands terms  
 - Code released under MIT license 
+
 
 
 
