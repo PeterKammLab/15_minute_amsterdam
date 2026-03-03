@@ -1,0 +1,16 @@
+{
+"type": "FeatureCollection",
+"name": "Pet_Shop_NS",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::3857" } },
+"features": [
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 2208284.416404488030821, 5659704.142855391837656 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 2209507.114538400899619, 5659621.622353956103325 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 2207387.151233974378556, 5659584.430015282705426 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 2207238.381879277527332, 5659547.237676608376205 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 2206950.141254553105682, 5659696.007031304761767 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 2206959.439339221455157, 5660058.632333377376199 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 2206954.79029688751325, 5660235.295942080207169 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 2207833.459298064000905, 5660156.262222397141159 ] } },
+{ "type": "Feature", "properties": { "id": null }, "geometry": { "type": "Point", "coordinates": [ 2208879.493823274504393, 5660160.911264731548727 ] } }
+]
+}
