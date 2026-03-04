@@ -22,49 +22,44 @@ Raw geo-datasets are hosted externally due to file size constraints.
 - **Statistics Netherlands (CBS)**
   - 100×100m population grid  
   - 500×500m population grid  
-  - Population counts  
-  - Age groups  
-  - Migration background  
-  - WOZ property value indicators  
-
+  - Includes: Population counts, Age groups, Migration background, WOZ property value indicators
+  - 
 - **OpenStreetMap**
   - Amenity locations (points and polygons)  
   - Extracted using OSMnx  
 
-- **Municipality of Amsterdam (Open Data)**
+- **Municipality of Amsterdam (Open GeoData Portal)**
   - Administrative boundaries  
-  - Additional spatial reference layers  
+  - Additional spatial layers (water, amenities, etc.)
 
 ### 🧠 Scripts
 
-- `extract_amenities_osm_points_polygons.py`  
-  Extracts amenities from OpenStreetMap and exports spatial layers.
+- `extract_amenities_osm_points_polygons.py`: Extracts amenities from OpenStreetMap and exports spatial layers.
 
-- `calculate_isochrones_ors.py`  
-  Computes 15-minute travel-time isochrones using OpenRouteService (ORS) and calculates grid-based accessibility indicators and composite index values.
+- `calculate_isochrones_ors.py`: Computes 15-minute travel-time isochrones using OpenRouteService (ORS) and calculates grid-based accessibility indicators and composite index values.
 
 ### ▶️ Reproducibility
 
 Install dependencies found in requirements.txt
 
-Set your OpenRouteService API key as an environment variable.
+Set your OpenRouteService API key as an environment variable to run the script. 
 
 ### 📊 Outputs
 
-The `outputs/` folder contains processed accessibility results and maps.  
-Large intermediate files are not tracked.
+The `outputs/` folder contains processed research results and statistics. Other data is found in Zenodo link. 
 
 ### 🗺️ Spatial reference
 
 - Study area: Amsterdam, The Netherlands  
 - CRS: EPSG:28992 (Amersfoort / RD New)  
-- Analysis year: (insert year)
+- Analysis year: 2022
 
 ### 📜 License
 
 - OpenStreetMap data © OpenStreetMap contributors 
 - CBS data subject to Statistics Netherlands terms  
 - Code released under MIT license 
+
 
 
 
