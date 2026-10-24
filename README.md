@@ -23,7 +23,7 @@ Raw geo-datasets are hosted externally due to file size constraints.
   - 100×100m population grid  
   - 500×500m population grid  
   - Includes: Population counts, Age groups, Migration background, WOZ property value indicators
-  - 
+    
 - **OpenStreetMap**
   - Amenity locations (points and polygons)  
   - Extracted using OSMnx  
