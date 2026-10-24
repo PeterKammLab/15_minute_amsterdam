@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "Swimmingpool_Indoor-All",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "Naam_locatie": "Diemenn", "Categorie": null }, "geometry": { "type": "Point", "coordinates": [ 4.958720324221341, 52.335994952378378 ] } },
+{ "type": "Feature", "properties": { "Naam_locatie": "Zuiderbad", "Categorie": "Binnenzwembad" }, "geometry": { "type": "Point", "coordinates": [ 4.8859549, 52.3585358 ] } },
+{ "type": "Feature", "properties": { "Naam_locatie": "Sportfondsenbad Oost", "Categorie": "Binnenzwembad" }, "geometry": { "type": "Point", "coordinates": [ 4.928688, 52.3566742 ] } },
+{ "type": "Feature", "properties": { "Naam_locatie": "De Mirandabad", "Categorie": "Binnenzwembad" }, "geometry": { "type": "Point", "coordinates": [ 4.9027128, 52.3386955 ] } },
+{ "type": "Feature", "properties": { "Naam_locatie": "Sloterparkbad", "Categorie": "Binnenzwembad" }, "geometry": { "type": "Point", "coordinates": [ 4.8181381, 52.3703346 ] } },
+{ "type": "Feature", "properties": { "Naam_locatie": "Sportplaza Mercator", "Categorie": "Binnenzwembad" }, "geometry": { "type": "Point", "coordinates": [ 4.846602, 52.3717995 ] } },
+{ "type": "Feature", "properties": { "Naam_locatie": "Noorderparkbad", "Categorie": "Binnenzwembad" }, "geometry": { "type": "Point", "coordinates": [ 4.91783, 52.3981056 ] } },
+{ "type": "Feature", "properties": { "Naam_locatie": "Marnixbad", "Categorie": "Binnenzwembad" }, "geometry": { "type": "Point", "coordinates": [ 4.878294, 52.3779068 ] } },
+{ "type": "Feature", "properties": { "Naam_locatie": "Bijlmer Sportcentrum", "Categorie": "Binnenzwembad" }, "geometry": { "type": "Point", "coordinates": [ 4.9578061, 52.3155022 ] } },
+{ "type": "Feature", "properties": { "Naam_locatie": null, "Categorie": null }, "geometry": { "type": "Point", "coordinates": [ 4.819832030427595, 52.34069162632143 ] } }
+]
+}

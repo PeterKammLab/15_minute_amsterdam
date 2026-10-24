@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "Libraries_All",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+"features": [
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 251154465, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 122382.29118973040022, 487705.022902631491888 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 279185367, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 118787.695470791863045, 484288.134241920430213 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 324817976, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 120618.99711132547236, 485084.509737334796228 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 412161775, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 120151.798811028915225, 482864.620561859395821 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 1278624660, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 124463.187084452132694, 486345.314353322202805 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2081487344, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 115467.008619686792372, 485827.891144142136909 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2321844596, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 119920.434711305351811, 488097.351949274423532 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2678712018, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 118429.488459095417056, 486969.696101763518527 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2772298378, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 119698.348994581552688, 486683.988874311035033 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2788129544, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 120472.002324190310901, 489127.002815120562445 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2826146001, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 123598.622832857945468, 485675.255000774108339 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2842394971, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 128407.001002773060463, 485488.996467942895833 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2846666788, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 121376.999882467629504, 492336.000734335626476 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 3773661670, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 122997.401408450241433, 491244.837225365859922 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 3951558425, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 125575.177991075179307, 489560.8035915333312 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 4344205052, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 118504.110082346756826, 488009.696751098381355 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 4404541090, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 126959.714885663372115, 478772.876032821892295 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 8400903618, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 126958.469196690362878, 481711.346240824845154 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 8868722161, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 125432.095066221460002, 480914.42865075863665 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 9139791976, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 122240.61833592459152, 485158.894909636990633 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": null, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 122613.885584739837213, 489406.534004162414931 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": null, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 117342.972863571718335, 486364.483190372819081 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": null, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 116379.162932852093945, 488008.145385987707414 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": null, "layer": null, "path": null }, "geometry": { "type": "Point", "coordinates": [ 115155.264241982396925, 487989.214874959085137 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2830294674, "layer": "Libraries Diemen", "path": "C:\\Users\\Petar Koljensic\\Desktop\\Libraries Diemen.geojson" }, "geometry": { "type": "Point", "coordinates": [ 125974.171384023720748, 483816.237053247750737 ] } },
+{ "type": "Feature", "properties": { "element_ty": "node", "osmid": 2297220025, "layer": "librarydiemen_point", "path": "C:/Users/Petar Koljensic/librarydiemen_point.shx|layername=librarydiemen_point" }, "geometry": { "type": "Point", "coordinates": [ 124418.120332070247969, 482821.352544168708846 ] } }
+]
+}

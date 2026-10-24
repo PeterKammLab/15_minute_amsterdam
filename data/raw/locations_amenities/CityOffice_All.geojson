@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "CityOffice_All",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:EPSG::28992" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1 }, "geometry": { "type": "Point", "coordinates": [ 124203.822468345082598, 490458.410050990001764 ] } },
+{ "type": "Feature", "properties": { "id": 2 }, "geometry": { "type": "Point", "coordinates": [ 121826.196834338159533, 486773.587729499908164 ] } },
+{ "type": "Feature", "properties": { "id": 3 }, "geometry": { "type": "Point", "coordinates": [ 118188.462775055813836, 487971.353948472533375 ] } },
+{ "type": "Feature", "properties": { "id": 4 }, "geometry": { "type": "Point", "coordinates": [ 123862.929978559957817, 485504.194294775137678 ] } },
+{ "type": "Feature", "properties": { "id": 5 }, "geometry": { "type": "Point", "coordinates": [ 115414.897809528862126, 485716.837591540475842 ] } },
+{ "type": "Feature", "properties": { "id": 6 }, "geometry": { "type": "Point", "coordinates": [ 121369.656235786285833, 483537.430328904360067 ] } },
+{ "type": "Feature", "properties": { "id": 7 }, "geometry": { "type": "Point", "coordinates": [ 125613.288975310220849, 480993.265200633206405 ] } }
+]
+}
